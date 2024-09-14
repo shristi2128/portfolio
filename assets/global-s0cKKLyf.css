@@ -26,10 +26,10 @@
   } */
   @font-face {
     font-family: 'Garet';
-    src: url('/fonts/Garet/Garet-Book.woff2') format('woff2'),
-         url('/fonts/Garet/Garet-Book.woff') format('woff'),
-         url('/fonts/Garet/Garet-Book.ttf') format('truetype'),
-         url('/fonts/Garet/Garet-Book.otf') format('opentype');
+    src: url('/portfolio/fonts/Garet/Garet-Book.woff2') format('woff2'),
+         url('/portfolio/fonts/Garet/Garet-Book.woff') format('woff'),
+         url('/portfolio/fonts/Garet/Garet-Book.ttf') format('truetype'),
+         url('/portfolio/fonts/Garet/Garet-Book.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }

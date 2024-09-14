@@ -4,24 +4,24 @@
   @font-face {
     font-family: "Evafiya";
     src: local("Evafiya"),
-    url(/fonts/Evafiya/Evafiya.ttf)
+    url(/portfolio/fonts/Evafiya/Evafiya.ttf)
         format("opentype")
 }
   /* @font-face {
     font-family: PP Neue Montreal;
     src: local("PP Neue Montreal"),
-      url(/fonts/PP-Neue-Montreal/ppneuemontreal-medium.woff) format("woff")
+      url(/portfolio/fonts/PP-Neue-Montreal/ppneuemontreal-medium.woff) format("woff")
 }
   @font-face {
     font-family: PP Neue Montreal Mono;
     src: local("PP Neue Montreal Mono"),
-      url(/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.otf)
+      url(/portfolio/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.otf)
         format("opentype"),
-      url(/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.ttf)
+      url(/portfolio/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.ttf)
         format("TrueType"),
-      url(/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.woff)
+      url(/portfolio/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.woff)
         format("woff"),
-      url(/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.woff2)
+      url(/portfolio/fonts/PP-Neue-Montreal-Mono/pp-neue-montreal-mono-3.woff2)
         format("woff2");
   } */
   @font-face {

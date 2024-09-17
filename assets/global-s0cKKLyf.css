@@ -2654,6 +2654,5 @@
   font-family: 'Garet', sans-serif;
 }
 .fullpage {
-    display: flex;
     min-height: 100vh;
 }

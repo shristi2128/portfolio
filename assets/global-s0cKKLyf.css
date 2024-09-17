@@ -2653,7 +2653,7 @@
 #garet-font {
   font-family: 'Garet', sans-serif;
 }
-.fullPage {
+.fullpage {
     display: flex;
     min-height: 100vh;
 }

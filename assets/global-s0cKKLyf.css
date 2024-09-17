@@ -1967,7 +1967,7 @@
     }
   }
   .work-details__footer {
-    grid-area: 4/1/5/-1;
+    grid-area: 6/1/5/-1;
     margin-top: 33px;
   }
   .work-details__footer > a {

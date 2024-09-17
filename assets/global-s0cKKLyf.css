@@ -1352,7 +1352,6 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    flex-direction: column;
   }
     .intro p {
       width: 30%; /* Adjust this width as needed */
